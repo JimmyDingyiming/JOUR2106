@@ -7,7 +7,7 @@ Here is a test edit
 * item 3
 
 ## head 2
-
+![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 ### head 
 
 ## heading 2
